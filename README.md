@@ -51,3 +51,4 @@ To be defined...
 ## 5 References
 * Udemy. M. Hamedani. [Entity Framework in Depth: The Complete Guide](https://gorillalogic.udemy.com/course/entity-framework-tutorial)
 * Microsoft. [Quickstart: Install SQL Server and create a database on Ubuntu](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-linux-ver15&preserve-view=true)
+* Microsoft. [Write Apps with Visual Studio Code and Entity Framework](https://docs.microsoft.com/en-us/archive/msdn-magazine/2016/august/asp-net-core-write-apps-with-visual-studio-code-and-entity-framework)
