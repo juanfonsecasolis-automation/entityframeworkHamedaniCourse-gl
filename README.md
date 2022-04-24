@@ -32,7 +32,7 @@ Go
 ## 2 Project set-up
 Run the Pluto.sql script provided by the course:
 ```
-/opt/mssql-tools/bin/sqlcmd -S localhost -U SA -P <password> -i Pluto.sql 
+/opt/mssql-tools/bin/sqlcmd -S localhost -U SA -P <password> -i scripts/Pluto.sql 
 ```
 
 Connect back to the DB and check that the tables, stored procedures, and functions were created:
